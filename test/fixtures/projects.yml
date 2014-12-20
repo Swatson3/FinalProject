@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  assignment_id: 
+  project_description: MyString
+  BLOB: MyString
+
+two:
+  assignment_id: 
+  project_description: MyString
+  BLOB: MyString

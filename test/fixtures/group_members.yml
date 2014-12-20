@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  group_member_name: MyString
+  group_member_phone_number: MyString
+  group_member_email: MyString
+  assignment_id: 
+
+two:
+  group_member_name: MyString
+  group_member_phone_number: MyString
+  group_member_email: MyString
+  assignment_id: 

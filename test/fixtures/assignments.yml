@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  assignment_name: MyString
+  assignment_type: 
+  assignment_estimated_work_hours: 1
+  assignment_assigned_date: 2014-12-20
+
+two:
+  assignment_name: MyString
+  assignment_type: 
+  assignment_estimated_work_hours: 1
+  assignment_assigned_date: 2014-12-20
